@@ -1,0 +1,18 @@
+{
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "histoire no hover.moc",
+  "textures": [
+    "histoire.1024/texture_00.png",
+    "histoire.1024/texture_01.png",
+    "histoire.1024/texture_02.png",
+    "histoire.1024/texture_03.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "width": 2.0
+  },
+  "motions": {},
+  "physics": "histoire.physics.json",
+  "lip_sync": "false"
+}
