@@ -1,0 +1,17 @@
+{
+  "name": "僕は友達が少ない IP",
+  "id": "Haganai",
+  "version": "1.0",
+  "encrypt": "true",
+  "list": [
+    {
+      "character": "三日月夜空",
+      "costume": [
+        {
+          "name": "制服",
+          "path": "yozora/seifuku.model.json"
+        }
+      ]
+    }
+  ]
+}

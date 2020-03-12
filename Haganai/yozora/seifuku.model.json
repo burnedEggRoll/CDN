@@ -1,0 +1,220 @@
+{
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "seifuku.moc",
+  "textures": [
+    "seifuku.1024/yozora_base_texture_00.png",
+    "seifuku.1024/yozora_seifuku_texture_01.png",
+    "seifuku.1024/yozora_seifuku_texture_02.png"
+  ],
+  "layout": {
+    "center_x": 0.08,
+    "center_y": -0.69,
+    "width": 3.0
+  },
+  "motions": {
+    "pinch": [
+      {
+        "file": "motions/pinch/HI_Y102.mtn",
+        "sound": "motions/pinch/HI_Y102.mp3"
+      },
+      {
+        "file": "motions/pinch/HI_Y153.mtn",
+        "sound": "motions/pinch/HI_Y153.mp3"
+      },
+      {
+        "file": "motions/pinch/HI_Y154.mtn",
+        "sound": "motions/pinch/HI_Y154.mp3"
+      }
+    ],
+    "idle": [
+      {
+        "file": "motions/idle/yozora_base_idle_01.mtn"
+      },
+      {
+        "file": "motions/idle/yozora_base_idle_02.mtn"
+      },
+      {
+        "file": "motions/idle/yozora_base_idle_03.mtn"
+      },
+      {
+        "file": "motions/idle/yozora_base_idle_04.mtn"
+      },
+      {
+        "file": "motions/idle/yozora_base_idle_05.mtn"
+      }
+    ],
+    "flick": [
+      {
+        "file": "motions/flick/HI_Y097.mtn",
+        "sound": "motions/flick/HI_Y097.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y098.mtn",
+        "sound": "motions/flick/HI_Y098.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y099.mtn",
+        "sound": "motions/flick/HI_Y099.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y100.mtn",
+        "sound": "motions/flick/HI_Y100.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y101.mtn",
+        "sound": "motions/flick/HI_Y101.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y143.mtn",
+        "sound": "motions/flick/HI_Y143.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y144.mtn",
+        "sound": "motions/flick/HI_Y144.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y145.mtn",
+        "sound": "motions/flick/HI_Y145.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y146.mtn",
+        "sound": "motions/flick/HI_Y146.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y147.mtn",
+        "sound": "motions/flick/HI_Y147.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y148.mtn",
+        "sound": "motions/flick/HI_Y148.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y149.mtn",
+        "sound": "motions/flick/HI_Y149.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y150.mtn",
+        "sound": "motions/flick/HI_Y150.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y151.mtn",
+        "sound": "motions/flick/HI_Y151.mp3"
+      },
+      {
+        "file": "motions/flick/HI_Y152.mtn",
+        "sound": "motions/flick/HI_Y152.mp3"
+      }
+    ],
+    "shake": [
+      {
+        "file": "motions/shake/HI_Y103.mtn",
+        "sound": "motions/shake/HI_Y103.mp3"
+      },
+      {
+        "file": "motions/shake/HI_Y155.mtn",
+        "sound": "motions/shake/HI_Y155.mp3"
+      },
+      {
+        "file": "motions/shake/HI_Y156.mtn",
+        "sound": "motions/shake/HI_Y156.mp3"
+      }
+    ],
+    "tap": [
+      {
+        "file": "motions/tap/HI_Y092.mtn",
+        "sound": "motions/tap/HI_Y092.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y093.mtn",
+        "sound": "motions/tap/HI_Y093.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y094.mtn",
+        "sound": "motions/tap/HI_Y094.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y095.mtn",
+        "sound": "motions/tap/HI_Y095.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y096.mtn",
+        "sound": "motions/tap/HI_Y096.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y133.mtn",
+        "sound": "motions/tap/HI_Y133.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y134.mtn",
+        "sound": "motions/tap/HI_Y134.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y135.mtn",
+        "sound": "motions/tap/HI_Y135.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y136.mtn",
+        "sound": "motions/tap/HI_Y136.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y137.mtn",
+        "sound": "motions/tap/HI_Y137.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y138.mtn",
+        "sound": "motions/tap/HI_Y138.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y139.mtn",
+        "sound": "motions/tap/HI_Y139.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y140.mtn",
+        "sound": "motions/tap/HI_Y140.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y141.mtn",
+        "sound": "motions/tap/HI_Y141.mp3"
+      },
+      {
+        "file": "motions/tap/HI_Y142.mtn",
+        "sound": "motions/tap/HI_Y142.mp3"
+      }
+    ]
+  },
+  "expressions": [
+    {
+      "name": "f01.exp.json",
+      "file": "expressions/f01.exp.json"
+    },
+    {
+      "name": "f02.exp.json",
+      "file": "expressions/f02.exp.json"
+    },
+    {
+      "name": "f03.exp.json",
+      "file": "expressions/f03.exp.json"
+    },
+    {
+      "name": "f04.exp.json",
+      "file": "expressions/f04.exp.json"
+    },
+    {
+      "name": "f05.exp.json",
+      "file": "expressions/f05.exp.json"
+    },
+    {
+      "name": "f06.exp.json",
+      "file": "expressions/f06.exp.json"
+    },
+    {
+      "name": "f07.exp.json",
+      "file": "expressions/f07.exp.json"
+    },
+    {
+      "name": "f08.exp.json",
+      "file": "expressions/f08.exp.json"
+    }
+  ],
+  "physics": "physics.json"
+}
