@@ -1,0 +1,19 @@
+{
+  "type": "Kanna",
+   "name": "Kanna",
+  "id": "Kanna",
+  "encrypt": "false",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "Kobayaxi",
+      "character": "Kobayaxi",
+      "costume": [
+        {
+          "name": "Kobayaxi",
+          "path": "Kobayaxi/Kobayaxi.model.json"
+        }
+      ]
+    }
+  ]
+}
