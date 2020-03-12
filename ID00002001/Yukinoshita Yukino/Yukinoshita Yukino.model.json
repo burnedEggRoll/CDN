@@ -1,0 +1,64 @@
+{
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "Yukinoshita Yukino.moc",
+  "textures": [
+    "Yukinoshita Yukino.2048/texture_00.png",
+    "Yukinoshita Yukino.2048/texture_01.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "width": 2.0
+  },
+  "motions": {
+    "tap": [
+      {
+        "file": "motions/tap/haru_m_01.mtn"
+      },
+      {
+        "file": "motions/tap/haru_m_02.mtn"
+      },
+      {
+        "file": "motions/tap/haru_m_03.mtn"
+      },
+      {
+        "file": "motions/tap/haru_m_04.mtn"
+      },
+      {
+        "file": "motions/tap/haru_m_05.mtn"
+      },
+      {
+        "file": "motions/tap/haru_m_06.mtn"
+      },
+      {
+        "file": "motions/tap/haru_m_07.mtn"
+      },
+      {
+        "file": "motions/tap/haru_normal_02.mtn"
+      },
+      {
+        "file": "motions/tap/haru_normal_04.mtn"
+      },
+      {
+        "file": "motions/tap/haru_normal_05.mtn"
+      }
+    ],
+    "shake": [
+      {
+        "file": "motions/shake/haru_normal_03.mtn"
+      }
+    ],
+    "idle": [
+      {
+        "file": "motions/idle/haru_idle_01.mtn"
+      },
+      {
+        "file": "motions/idle/haru_idle_02.mtn"
+      },
+      {
+        "file": "motions/idle/haru_idle_03.mtn"
+      }
+    ]
+  },
+  "physics": "physics.json"
+}

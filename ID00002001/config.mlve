@@ -1,0 +1,19 @@
+{
+  "type":"ID_00002001",
+  "name": "我的青春恋爱物语果然有问题",
+  "id": "Yukinoshita Yukino",
+  "encrypt": "true",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "Yukinoshita Yukino",
+      "character": "雪ノ下雪乃",
+      "costume": [
+        {
+          "name": "制服",
+          "path": "Yukinoshita Yukino/Yukinoshita Yukino.model.json"
+        }
+      ]
+    }
+  ]
+}

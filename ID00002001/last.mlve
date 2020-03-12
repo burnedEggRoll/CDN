@@ -1,0 +1,18 @@
+{
+  "name": "Yukinoshita Yukino",
+  "id": "Yukinoshita Yukino",
+  "encrypt": "false",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "Yukinoshita Yukino",
+      "character": "Yukinoshita Yukino",
+      "costume": [
+        {
+          "name": "Yukinoshita Yukino",
+          "path": "Yukinoshita Yukino/Yukinoshita Yukino.model.json"
+        }
+      ]
+    }
+  ]
+}
