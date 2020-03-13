@@ -1,0 +1,19 @@
+{
+  "type": "MLVE_FILE",
+  "name": "10000003",
+  "id": "10000003",
+  "encrypt": "false",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "10000003",
+      "character": "10000003",
+      "costume": [
+        {
+          "name": "libra",
+          "path": "10000003/libra.model.json"
+        }
+      ]
+    }
+  ]
+}

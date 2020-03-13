@@ -1,0 +1,19 @@
+{
+  "type": "ID_10000003",
+  "name": "「Libra」モデル",
+  "id": "ID10000003",
+  "encrypt": "false",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "10000003",
+      "character": "Libra",
+      "costume": [
+        {
+          "name": "Libra",
+          "path": "10000003/libra.model.json"
+        }
+      ]
+    }
+  ]
+}

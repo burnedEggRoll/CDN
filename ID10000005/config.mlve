@@ -1,0 +1,19 @@
+{
+  "type":"ID_10000005",
+  "name": "結月ゆかり",
+  "id": "ID10000005",
+  "encrypt": "true",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "YuzukiYukari",
+      "character": "結月ゆかり",
+      "costume": [
+        {
+          "name": "結月ゆかり",
+          "path": "YuzukiYukari/YuzukiYukari.model.json"
+        }
+      ]
+    }
+  ]
+}

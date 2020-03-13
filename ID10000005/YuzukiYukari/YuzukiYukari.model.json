@@ -1,0 +1,61 @@
+{
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "YuzukiYukari.moc",
+  "textures": [
+    "YuzukiYukari.2048/texture_00.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "width": 2.0
+  },
+  "motions": {
+    "tap": [
+      {
+        "file": "motions/tap/Epsilon_m_01.mtn"
+      },
+      {
+        "file": "motions/tap/Epsilon_m_02.mtn"
+      },
+      {
+        "file": "motions/tap/Epsilon_m_03.mtn"
+      },
+      {
+        "file": "motions/tap/Epsilon_m_04.mtn"
+      },
+      {
+        "file": "motions/tap/Epsilon_m_05.mtn"
+      },
+      {
+        "file": "motions/tap/Epsilon_m_06.mtn"
+      },
+      {
+        "file": "motions/tap/Epsilon_m_07.mtn"
+      },
+      {
+        "file": "motions/tap/Epsilon_m_08.mtn"
+      },
+      {
+        "file": "motions/tap/Epsilon_m_sp_01.mtn"
+      },
+      {
+        "file": "motions/tap/Epsilon_m_sp_02.mtn"
+      },
+      {
+        "file": "motions/tap/Epsilon_m_sp_03.mtn"
+      },
+      {
+        "file": "motions/tap/Epsilon_m_sp_04.mtn"
+      },
+      {
+        "file": "motions/tap/Epsilon_m_sp_05.mtn"
+      }
+    ],
+    "idle": [
+      {
+        "file": "motions/idle/Epsilon_idle_01.mtn"
+      }
+    ]
+  },
+  "physics": "physics.json"
+}

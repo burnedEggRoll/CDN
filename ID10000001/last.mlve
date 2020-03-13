@@ -1,0 +1,48 @@
+{
+  "name": "Sample2",
+  "id": "Sample2",
+  "encrypt": "false",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "haruto",
+      "character": "haruto",
+      "costume": [
+        {
+          "name": "haruto",
+          "path": "haruto/haruto.model.json"
+        }
+      ]
+    },
+    {
+      "id": "kashima",
+      "character": "kashima",
+      "costume": [
+        {
+          "name": "kashima",
+          "path": "kashima/kashima.model.json"
+        }
+      ]
+    },
+    {
+      "id": "koharu",
+      "character": "koharu",
+      "costume": [
+        {
+          "name": "koharu",
+          "path": "koharu/koharu.model.json"
+        }
+      ]
+    },
+    {
+      "id": "wanko",
+      "character": "wanko",
+      "costume": [
+        {
+          "name": "wanko",
+          "path": "wanko/wanko.model.json"
+        }
+      ]
+    }
+  ]
+}

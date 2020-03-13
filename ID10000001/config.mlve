@@ -1,0 +1,39 @@
+{
+  "type":"ID_10000001",
+  "name": "SD Model Set",
+  "id": "ID10000001",
+  "encrypt": "false",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "haruto",
+      "character": "はると",
+      "costume": [
+        {
+          "name": "haruto",
+          "path": "haruto/haruto.model.json"
+        }
+      ]
+    },
+    {
+      "id": "koharu",
+      "character": "こはる",
+      "costume": [
+        {
+          "name": "koharu",
+          "path": "koharu/koharu.model.json"
+        }
+      ]
+    },
+    {
+      "id": "wanko",
+      "character": "わんころもち",
+      "costume": [
+        {
+          "name": "wanko",
+          "path": "wanko/wanko.model.json"
+        }
+      ]
+    }
+  ]
+}

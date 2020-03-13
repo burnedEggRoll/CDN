@@ -1,0 +1,18 @@
+{
+  "name": "YuzukiYukari",
+  "id": "YuzukiYukari",
+  "encrypt": "false",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "YuzukiYukari",
+      "character": "YuzukiYukari",
+      "costume": [
+        {
+          "name": "YuzukiYukari",
+          "path": "YuzukiYukari/YuzukiYukari.model.json"
+        }
+      ]
+    }
+  ]
+}
