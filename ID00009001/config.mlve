@@ -1,0 +1,19 @@
+{
+  "type":"ID_00009001",
+  "name": "closers-尤莉",
+  "id": "ID00009001",
+  "encrypt": "false",
+  "version": "1.1",
+  "list": [
+    {
+      "id": "yuri",
+      "character": "尤莉",
+      "costume": [
+        {
+          "name": "尤莉",
+          "path": "yuri/yuri.model.json"
+        }
+      ]
+    }
+  ]
+}
