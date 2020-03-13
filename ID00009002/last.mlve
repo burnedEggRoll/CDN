@@ -1,0 +1,18 @@
+{
+  "name": "fenmao",
+  "id": "fenmao",
+  "encrypt": "false",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "fenmao",
+      "character": "fenmao",
+      "costume": [
+        {
+          "name": "fenmao",
+          "path": "fenmao/fenmao.model.json"
+        }
+      ]
+    }
+  ]
+}

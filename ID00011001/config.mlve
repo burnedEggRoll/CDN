@@ -1,0 +1,19 @@
+{
+  "type":"ID_00011001",
+  "name": "小圆q版",
+  "id": "ID00011001",
+  "encrypt": "false",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "model3",
+      "character": "鹿目圆香",
+      "costume": [
+        {
+          "name": "鹿目圆香",
+          "path": "model3/model3.model.json"
+        }
+      ]
+    }
+  ]
+}

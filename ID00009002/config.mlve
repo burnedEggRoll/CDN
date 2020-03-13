@@ -1,0 +1,19 @@
+{
+  "type":"ID_00009002",
+  "name": "closers",
+  "id": "ID00009002",
+  "encrypt": "false",
+  "version": "1.1",
+  "list": [
+    {
+      "id": "fenmao",
+      "character": "李瑟钰",
+      "costume": [
+        {
+          "name": "李瑟钰",
+          "path": "fenmao/fenmao.model.json"
+        }
+      ]
+    }
+  ]
+}
