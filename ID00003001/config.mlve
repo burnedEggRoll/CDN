@@ -1,0 +1,29 @@
+﻿{
+  "type":"ID_00003001",
+  "name": "re0",
+  "id": "ID00003001",
+  "encrypt": "true",
+  "version": "1.4",
+  "list": [
+    {
+      "id": "蕾姆",
+      "character": "蕾姆",
+      "costume": [
+        {
+          "name": "女仆",
+          "path": "leimu/leimu.model.json"
+        }
+      ]
+    },
+    {
+      "id": "neko",
+      "character": "neko",
+      "costume": [
+        {
+          "name": "neko",
+          "path": "neko/neko.model.json"
+        }
+      ]
+    }
+  ]
+}

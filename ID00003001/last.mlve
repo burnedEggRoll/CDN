@@ -1,0 +1,18 @@
+{
+  "name": "蕾姆",
+  "id": "蕾姆",
+  "encrypt": "false",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "leimu",
+      "character": "leimu",
+      "costume": [
+        {
+          "name": "leimu",
+          "path": "leimu/leimu.model.json"
+        }
+      ]
+    }
+  ]
+}
