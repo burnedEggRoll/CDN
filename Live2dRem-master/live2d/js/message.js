@@ -446,7 +446,7 @@ if(!norunFlag){
 	}
 	$(document).ready(function() {
 		var AIimgSrc = [
-			home_Path + message_Path + "model/rem/remu2048/texture_00.png"
+			message_Path + "model/rem/remu2048/texture_00.png"
 		]
 		var images = [];
 		var imgLength = AIimgSrc.length;
